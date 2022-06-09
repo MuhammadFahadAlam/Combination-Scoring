@@ -1,0 +1,22 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 50vh;
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 3px 3px 3px 3px solid black;
+    }
+
+.table-wrapper-scroll-y {
+    display: block;
+    }
+
+label{
+    font-size: 20px;
+    color: rgb(26, 26, 26);
+}

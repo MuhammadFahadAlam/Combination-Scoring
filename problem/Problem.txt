@@ -1,0 +1,23 @@
+Problem:
+Need make a HTML + Javascirpt like this: 
+
+Requirement: 
+I have a array include 6 number (Original Number) I need to mix random 6 numbers from 10 numbers (combination of 10 pins 6) = 210 combinations. 
+After that I need to check point of every combination like this: 
+If combination have 3 of 6 numbers in Original Number: 3 point 
+If combination have 4 of 6 numbers in Original Number: 30 point 
+If combination have 5 of 6 numbers in Original Number: 1000 point 
+If combination have 6 of 6 numbers in Original Number: Bingo 
+
+Process:
+Step 1: Input 6 numbers (Original Number) 
+Step 2: Input 10 numbers to mixing 
+Step 3: Click button mix number 
+Step 4: Show table result of combinations and point
+
+Additional Requirements:
+After that I need to check point of every combination like this:
++ If combination have 3 of 6 numbers in Original Number: 3 point
++ If combination have 4 of 6 numbers in Original Number: 30 point
++ If combination have 5 of 6 numbers in Original Number: 1000 point
++ If combination have 6 of 6 numbers in Original Number: 0 point
